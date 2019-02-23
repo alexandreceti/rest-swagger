@@ -4,7 +4,7 @@
 
 Trabalho de Java Turma de Arquitetura de Software na Plataforma Java EE  
 
-* PucMinas    
+**PucMinas**   
 
 Curso: Arquitetura de Software Distribuído  
 Oferta: 10 – 2018/02  
